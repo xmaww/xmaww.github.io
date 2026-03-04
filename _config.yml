@@ -11,12 +11,12 @@ url: "https://xmaww.github.io"
 # Author (作者信息 - 会显示在左侧边栏)
 # ==============================================================================
 author:
-  [cite_start]name: "Mingyu Li" # [cite: 1]
-  avatar: "profile.png" # 请将你的照片重命名为 profile.png 并放入 images/ 文件夹
-  bio: "Master's student at Southeast University focusing on robotic perception, vision-tactile fusion, dexterous manipulation, and reinforcement learning." [cite_start]# [cite: 4, 5, 34, 64]
-  [cite_start]location: "Nanjing, China" # [cite: 6]
-  [cite_start]employer: "Southeast University" # [cite: 4]
-  [cite_start]email: "220243720@seu.edu.cn" # [cite: 2]
+  name: "Mingyu Li" # 
+  avatar: "生活照.jpg" # 请将你的照片重命名为 profile.png 并放入 images/ 文件夹
+  bio: "Master's student at Southeast University focusing on robotic perception, vision-tactile fusion, dexterous manipulation, and reinforcement learning." 
+  location: "Nanjing, China" # [cite: 6]
+  employer: "Southeast University" # [cite: 4]
+  email: "220243720@seu.edu.cn" # [cite: 2]
   
   # 社交账号链接 (按需取消注释并填入你的 ID)
   github: "xmaww" 
