@@ -94,3 +94,7 @@ Bayesian optimization based design of a robotic granular manipulation system.
 </div>
 
 </div>
+
+<div style="background:#fff3cd; padding:10px; border-radius:6px; margin-bottom:20px;">
+⚠️ This website is currently under development. Some sections may be incomplete.
+</div>
