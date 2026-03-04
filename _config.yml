@@ -2,15 +2,11 @@
 # Site Settings (网站基础设置)
 # ==============================================================================
 locale: "en-US"
-[cite_start]title: "Mingyu Li" # [cite: 1]
+title: "Mingyu Li"
 title_separator: "-"
-[cite_start]name: "Mingyu Li" # [cite: 1]
-[cite_start]description: "Master Student at Southeast University | Robotics, Reinforcement Learning, Vision-Tactile Fusion" # [cite: 4, 5]
-url: "https://YOUR_GITHUB_USERNAME.github.io" # 将 YOUR_GITHUB_USERNAME 替换为你的 GitHub ID
-baseurl: ""
-repository: "xmaww/xmaww.github.io" # 替换为你的仓库名
-teaser: "profile.png" # 默认分享图片
-
+name: "Mingyu Li"
+description: "Master Student at Southeast University | Dexterous Manipulation, Vision-Tactile Fusion"
+url: "https://xmaww.github.io"
 # ==============================================================================
 # Author (作者信息 - 会显示在左侧边栏)
 # ==============================================================================
