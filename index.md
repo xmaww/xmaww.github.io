@@ -26,7 +26,7 @@ I am currently a Master's student in the School of Instrument Science and Engine
 
 <div style="max-width:520px;">
 
-<div style="font-size:22px; font-weight:600;">
+<div style="font-size:22px; font-weight:800;">
 Vision–Tactile Fusion for Surgical Force Estimation
 </div>
 
@@ -45,7 +45,7 @@ Vision–tactile fusion for estimating multi-contact interaction forces in robot
 
 <div style="max-width:520px;">
 
-<div style="font-size:22px; font-weight:600;">
+<div style="font-size:22px; font-weight:800;">
 Upper-Limb Prosthesis with Vision–Tactile Feedback
 </div>
 
@@ -64,7 +64,7 @@ Shared-control prosthetic system enabling robust grasping in daily living tasks.
 
 <div style="max-width:520px;">
 
-<div style="font-size:22px; font-weight:600;">
+<div style="font-size:22px; font-weight:800;">
 Visual–Tactile Fusion for Robotic Grasping
 </div>
 
@@ -83,7 +83,7 @@ Sim-to-real grasping pipeline combining tactile sensing and vision.
 
 <div style="max-width:520px;">
 
-<div style="font-size:22px; font-weight:600;">
+<div style="font-size:22px; font-weight:800;">
 Planetary Regolith Sampling Robot
 </div>
 
